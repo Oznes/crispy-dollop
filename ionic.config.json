@@ -1,0 +1,8 @@
+{
+  "name": "CourtCounter",
+  "app_id": "b01d8992",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
