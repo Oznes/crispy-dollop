@@ -1,3 +1,25 @@
 page-home {
 
 }
+body{
+    padding-top: 10vh;
+}
+
+.couteTwo, .couteOne{
+    float: left;
+    width: 50%;
+    text-align: center;
+    border-right: 3px solid black;
+}
+.myfooter{
+ 
+  position: absolute;
+  bottom: 20px;
+  left: 35%;
+  transform: translateX(-50);
+}
+.resetButton{
+    
+    width: 30vw;
+    align-self: center;
+}
